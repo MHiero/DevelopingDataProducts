@@ -1,7 +1,7 @@
 DevelopingDataProducts
 ======================
 
-DataScienceSpezialisationTrack
+###DataScience specialization track
 
 You will find my shinyApp at:
 https://mhiero.shinyapps.io/DevelopingDataProducts/
